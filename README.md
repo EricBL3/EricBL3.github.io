@@ -1,2 +1,2 @@
 # EricBL3.github.io
-Personal Website
+Personal Website made for EVAP class
